@@ -1,0 +1,9 @@
+argparse==1.4.0
+openai==0.27.4
+langchain==0.0.141
+pgvector==0.1.6
+pinecone-client==2.2.1
+pre-commit>=3.2.0
+python-dotenv==1.0.0
+llama-cpp-python==0.1.33 
+google-api-python-client==2.85.0
